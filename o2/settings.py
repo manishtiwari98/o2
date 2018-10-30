@@ -26,6 +26,7 @@ SECRET_KEY = 'k54-bc77a0771uc0w-a#)q)v3*v-2b^(hzgud9=tyd4%9+ixd='
 DEBUG = True
 
 ALLOWED_HOSTS = ['.ngrok.io','localhost']
+#hey hi
 
 
 # Application definition
